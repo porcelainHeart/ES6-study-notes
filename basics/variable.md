@@ -43,6 +43,7 @@ YEAR = 2018
 **这部分内容希望你都可以手动敲一遍，独立思考**
 ```javascript
 for (var i = 0; i < 10; i++) {}
+console.log(i)
 
 ```
 把上面for循环中的`var`换成`let`会有什么不同？为什么会这样？
