@@ -24,8 +24,8 @@ let str =`aaa
 ```
 
 ```javascript
-var x = 1;
-var y = 2;
+let x = 1;
+let y = 2;
 
 // $后面的花括号里的字符串会被js解析器认为是JavaScript语句
 `${x} + ${y} = ${x + y}`
@@ -34,7 +34,7 @@ var y = 2;
 `${x} + ${y * 2} = ${x + y * 2}`
 // "1 + 4 = 5"
 
-var obj = {x: 1, y: 2};
+let obj = {x: 1, y: 2};
 `${obj.x + obj.y}`
 // 3
 ```
