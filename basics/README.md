@@ -9,7 +9,7 @@
 - [函数](function.md)
 - [对象](object.md)
 - [正则](regexp.md)
-- [元组](set.md)
+- [集合](set.md)
 
 ---
 
