@@ -27,8 +27,16 @@
 
 ## 目录
 - [前言](README.md)
-  - [基础](basics/README.md)
-  - [进阶](advanced/README.md)
+- [基础](basics/README.md)
+  - [变量](basics/variable.md)
+  - [字符串](basics/string.md)
+  - [数值](basics/number.md)
+  - [数组](basics/array.md)
+  - [函数](basics/function.md)
+  - [对象](basics/object.md)
+  - [正则](basics/regexp.md)
+  - [元组](basics/set.md)
+- [进阶](advanced/README.md)
 - [感谢](thanks/README.md)
 
 ## 版权许可
