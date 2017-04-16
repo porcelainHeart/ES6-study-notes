@@ -6,6 +6,7 @@
 - 对项目的建议，可以[提交 issue](https://github.com/porcelainHeart/ES6-study-notes/issues/new) 向作者反馈
 - 欢迎直接提交 pull-request 参与贡献
 - 本书还没有写完，缺少的内容会尽快更新
+- 本书可以看作阮一峰的[ECMAScript 6 入门]大幅度精简版本，省略不常用的知识点，采用更浅显易读的方式写出，更适合基础偏弱的新手入门
 
 ## 为什么要写本书
 - 记录自己的学习历程，也希望能给新入门的朋友一些帮助
