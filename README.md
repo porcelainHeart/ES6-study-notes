@@ -35,7 +35,7 @@
   - [函数](basics/function.md)
   - [对象](basics/object.md)
   - [正则](basics/regexp.md)
-  - [集合](basics/set.md)
+  - [集合](basics/set.md)
 - [进阶](advanced/README.md)
 - [感谢](thanks/README.md)
 
