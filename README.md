@@ -5,6 +5,7 @@
 - 发现文章内容有问题，可以直接发邮件给作者，邮件地址见GitHub左侧信息
 - 对项目的建议，可以[提交 issue](https://github.com/porcelainHeart/ES6-study-notes/issues/new) 向作者反馈
 - 欢迎直接提交 pull-request 参与贡献
+- 本书还没有写完，缺少的内容会尽快更新
 
 ## 为什么要写本书
 - 记录自己的学习历程，也希望能给新入门的朋友一些帮助
