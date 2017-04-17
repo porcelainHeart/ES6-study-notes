@@ -36,10 +36,11 @@
   - [数组](basics/array.md)
   - [函数](basics/function.md)
   - [对象](basics/object.md)
-  - [正则←更新进度](basics/regexp.md)
+  - [正则](basics/regexp.md)
   - [集合](basics/set.md)
-- [进阶](advanced/README.md)
-- [感谢](thanks/README.md)
+  - [Symbol](basics/symbol.md)
+- [进阶←更新进度](advanced/README.md)
+- [致谢](thanks/README.md)
 
 ## 版权许可
 
