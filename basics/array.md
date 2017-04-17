@@ -98,3 +98,9 @@ a和b有什么区别？
 
 - [上一章：数值](number.md)
 - [下一章：函数](function.md)
+
+---
+
+### 相关资料
+
+- [MDN中文参考资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_operator)
