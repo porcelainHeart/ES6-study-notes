@@ -76,7 +76,7 @@ a和b有什么区别？
 
 对b赋值的这种写法有什么实际作用？
 
----
+MA标准文档](http://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer) [MDN中文参考资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 
 如何在ES5中实现`Array.from`的效果？
 
