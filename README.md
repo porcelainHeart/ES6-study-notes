@@ -52,8 +52,7 @@
 ## 相关资料
 
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-- [ECMA标准文档](http://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer) 
-- [MDN中文参考资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+- [ECMA标准文档](http://www.ecma-international.org/ecma-262/6.0) 
 
 ---
 
