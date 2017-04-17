@@ -10,6 +10,7 @@
 - [对象](object.md)
 - [正则](regexp.md)
 - [集合](set.md)
+- [Symbol](symbol.md)
 
 ---
 
