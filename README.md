@@ -39,7 +39,17 @@
   - [正则](basics/regexp.md)
   - [集合](basics/set.md)
   - [Symbol](basics/symbol.md)
-- [进阶←更新进度](advanced/README.md)
+- [进阶](advanced/README.md)
+  - [解构赋值←更新进度](advanced/destructuring.md)
+  - [Iterator](advanced/iterator.md)
+  - [Promise](advanced/promise.md)
+  - [Generator](advanced/generator.md)
+  - [Async](advanced/async.md)
+  - [Class](advanced/class.md)
+  - [Proxy](advanced/proxy.md)
+  - [Reflect](advanced/reflect.md)
+  - [Decorator](advanced/decorator.md)
+  - [Module](advanced/module.md)
 - [致谢](thanks/README.md)
 
 ## 版权许可
