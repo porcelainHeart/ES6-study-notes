@@ -15,5 +15,5 @@
 
 ---
 
-- [上一章：Symbol](../basics/Symbol.md)
+- [上一章：Symbol](../basics/symbol.md)
 - [下一章：解构赋值](destructuring.md)
