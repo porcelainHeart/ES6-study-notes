@@ -1,7 +1,7 @@
 # ES6学习笔记 面向新手的ES6入门指南
 
 ## 关于本书
-- 本书是作者在学习 [ECMAScript 2015(以下均称作ES6)] 后整理的学习笔记。
+- 本书是作者在学习 [ECMAScript 2015(以下均称作ES6)] 后整理的学习笔记
 - 发现文章内容有问题，可以直接发邮件给作者，邮件地址见GitHub左侧信息
 - 对项目的建议，可以[提交 issue](https://github.com/porcelainHeart/ES6-study-notes/issues/new) 向作者反馈
 - 欢迎直接提交 pull-request 参与贡献
