@@ -60,7 +60,7 @@ for...of 语句会在内部直接调用遍历对象上的 `Symbol.iterator` 方�
 
 ``` javascript
 for (let a of arr){
-	console.log(a)
+  console.log(a)
 }
 //  1  2  3
 ```
@@ -79,7 +79,7 @@ let map = new Map([
 ])
 
 for (let a of map){
-	console.log(a)
+  console.log(a)
 }
 ```
 
