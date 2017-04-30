@@ -52,7 +52,7 @@ Symbol.iterator显然是一个Symbol类型值，在Symbol章节介绍过，必�
 
 其实最开始是打算叫做 `iterator()` 的 ，可是考虑到已有的代码中，可能已经有人用这个名字命名了一些属性
 
-ES6如果直接使用这个名字会造成兼容性问题，无奈之下只能使用绝对不可能重复 `[Symbol.iterator]()`
+ES6如果直接使用这个名字会造成兼容性问题，无奈之下只能使用绝对不可能重复的 `[Symbol.iterator]()`
 
 for...of 语句会在内部直接调用遍历对象上的 `Symbol.iterator` 方法
 
@@ -86,3 +86,15 @@ for (let a of map){
 上面代码的输出结果会是什么？ 
 
 如果想要每次只输出map中每一项对应的值，应该怎么改写？
+
+---
+
+试着根据上面描述的for ... of实现方法,自己动手实现一个具有for ... of功能的function
+
+接收一个可遍历对象,并向命令行依次输出遍历结果
+
+---
+
+- [上一章：解构赋值](destructuring.md)
+- [下一章：Promise](promise.md)
+
